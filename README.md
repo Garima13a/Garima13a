@@ -2,7 +2,8 @@
 
 **I am Into**
 
-**Machine Learning, Deep Learning, and Computer Vision. I have mainly worked on medical imaging and e-learning projects that involve classification, object detection, segmentation and tracking. **
+**Machine Learning, Deep Learning, and Computer Vision. **
+**I have mainly worked on medical imaging and e-learning projects that involve classification, object  detection, segmentation and tracking. **
 
 - 📫 How to reach me: garimanishad@gmail.com
 <!--
