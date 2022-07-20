@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Garima!
 
+**I am Into**
+
+**Machine Learning, Deep Learning, and Computer Vision. I have mainly worked on medical imaging and e-learning projects that involve classification, object detection, segmentation and tracking. **
+
+- 📫 How to reach me: garimanishad@gmail.com
 <!--
 **Garima13a/Garima13a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
