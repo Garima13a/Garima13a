@@ -7,7 +7,7 @@
 **I have been working in Deep Learning, and Computer Vision-based models. A data scientist and a ML researcher with more than 3 years of good track record of ML papers in reputed ML conferences. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach.**
 </br>
 <br>
-**I have worked on medical imaging and e-learning projects that involve classification, object  detection, segmentation and tracking.** 
+I have worked on medical imaging and e-learning projects that involve classification, object  detection, segmentation and tracking.
 </br>
 
 <br>
@@ -15,9 +15,9 @@ Moreover, I'm also a Research assistant at IIIT- Hyderabad (Machine Learning Lab
 </br>
 My Interests are:
 
-**Machine Learning, Reinforcement Learning, Knowledge Graphs, Natural Language Processing and Computer Vision**
+**Machine Learning, Deep Learning, Knowledge Graphs, Computer Vision and Natural Language Processing **
 
-**I have been working in Deep Learning, and Computer Vision-based models. A data scientist and a ML researcher with more than 3 years of good track record of ML papers in reputed ML conferences. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach.**
+
 - 📫 How to reach me: garimanishad@gmail.com
 <!--
 **Garima13a/Garima13a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
