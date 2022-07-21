@@ -6,7 +6,8 @@
 <br>
 **I have been working in Deep Learning, and Computer Vision-based models. A data scientist and a ML researcher with more than 3 years of good track record of ML papers in reputed ML conferences. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach.**
 </br>
-**I have worked on medical imaging and e-learning projects that involve classification, object  detection, segmentation and tracking.**
+<br>
+**I have worked on medical imaging and e-learning projects that involve classification, object  detection, segmentation and tracking.** </br>
 
 Moreover, I'm also a Research assistant at IIIT- Hyderabad (Machine Learning Lab). I have worked on medical image automation in collaboration with the University of Leicester (UK), wherein I have published six research papers, and a few others are in progress. 
 
