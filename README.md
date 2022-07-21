@@ -20,7 +20,7 @@ My Interests are:
 <br>
 Here is a bit about my interests and how to get in touch:
 </br>
-
+<br></br>
 
 
 - 🔭 I’m currently working on state of the art segmentation and OCR model.
