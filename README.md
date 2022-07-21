@@ -14,9 +14,10 @@ I have worked on medical imaging and e-learning projects that involve classifica
 <br>
 Moreover, I'm also a Research assistant at IIIT- Hyderabad (Machine Learning Lab). I have worked on medical image automation in collaboration with the University of Leicester (UK), wherein I have published six research papers, and a few others are in progress. 
 </br>
+<br></br>
 My Interests are:
 <br>
-Machine Learning, Deep Learning, Computer Vision, Statistical analysis, Machine learning in natural sciences, Biomedical imaging.
+"Machine Learning, Deep Learning, Computer Vision, Statistical analysis, Machine learning in natural sciences, Biomedical imaging."
 </br>
 <br>
 Here is a bit about my interests and how to get in touch:
