@@ -14,23 +14,20 @@ I have worked on medical imaging and e-learning projects that involve classifica
 Moreover, I'm also a Research assistant at IIIT- Hyderabad (Machine Learning Lab). I have worked on medical image automation in collaboration with the University of Leicester (UK), wherein I have published six research papers, and a few others are in progress. 
 </br>
 My Interests are:
-
+<br>
 **Machine Learning, Deep Learning, Computer Vision, Statistical analysis, Machine learning in natural sciences, Biomedical imaging**
+</br>
+<br>
+Here is a bit about my interests and how to get in touch:
+</br>
 
 
+
+- 🔭 I’m currently working on state of the art segmentation and OCR model.
+- 🌱 I’m currently learning reinforcement learning, knowledge graphs and natural language processing.
+- 💬 Ask me about new machine learning techniques and let's collaborate on making them even better!
 - 📫 How to reach me: garimanishad@gmail.com
-<!--
-**Garima13a/Garima13a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love tech blogging and have been doing so for past  4 years now! You can read my blogs here -> https://garimanishad.medium.com/
 -->
 ![Garima Github Stats](https://github-readme-stats.vercel.app/api?username=Garima13a&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
