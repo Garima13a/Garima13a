@@ -15,6 +15,9 @@ Moreover, I'm also a Research assistant at IIIT- Hyderabad (Machine Learning Lab
 </br>
 My Interests are:
 
+**Machine Learning, Reinforcement Learning, Knowledge Graphs, Natural Language Processing and Computer Vision**
+
+
 - 📫 How to reach me: garimanishad@gmail.com
 <!--
 **Garima13a/Garima13a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
