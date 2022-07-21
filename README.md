@@ -16,7 +16,7 @@ Moreover, I'm also a Research assistant at IIIT- Hyderabad (Machine Learning Lab
 </br>
 <br></br>
 My Interests are:
-<br>
+<br></br>
 <b>
 "Machine Learning, Deep Learning, Computer Vision, Statistical analysis, Machine learning in natural sciences, Biomedical imaging."
   </b>
