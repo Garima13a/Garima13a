@@ -15,7 +15,7 @@ Moreover, I'm also a Research assistant at IIIT- Hyderabad (Machine Learning Lab
 </br>
 My Interests are:
 
-**Machine Learning, Deep Learning, Computer Vision, Statistical analysis, Machine learning in natural sciences, Biomedical imaging and Natural Language Processing**
+**Machine Learning, Deep Learning, Computer Vision, Statistical analysis, Machine learning in natural sciences, Biomedical imaging**
 
 
 - 📫 How to reach me: garimanishad@gmail.com
