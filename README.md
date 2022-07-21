@@ -17,7 +17,7 @@ My Interests are:
 
 **Machine Learning, Reinforcement Learning, Knowledge Graphs, Natural Language Processing and Computer Vision**
 
-
+**I have been working in Deep Learning, and Computer Vision-based models. A data scientist and a ML researcher with more than 3 years of good track record of ML papers in reputed ML conferences. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach.**
 - 📫 How to reach me: garimanishad@gmail.com
 <!--
 **Garima13a/Garima13a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
