@@ -5,7 +5,7 @@
 
 <br>
 <b>
-I have been working in Deep Learning, and Computer Vision-based models and now GenAI. A data scientist and a ML researcher with more than 6 years of good track record of ML papers in reputed ML conferences. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach. </b>
+I have been working in Deep Learning, and Computer Vision-based models and now GenAI. A data scientist and a ML researcher with more than 8 years of good track record of ML papers in reputed ML conferences. Expertise in model development to deployment lifecycle. I provide required solutions to business problems by working on its statistical and analytical approach. </b>
 </br>
 <br>
 I have worked on medical imaging and e-learning projects that involve classification, object  detection, segmentation and tracking.
